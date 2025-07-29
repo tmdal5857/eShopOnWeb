@@ -9,7 +9,7 @@ env:
   LOCATION: koreacentral
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 33caa67d-a835-4d6b-ab56-1a7f6e11b570
-  WEBAPP-NAME: eshoponweb-webapp-20250729
+  WEBAPP-NAME: eshoponweb-webapp-seungmi
 
 
 jobs:
